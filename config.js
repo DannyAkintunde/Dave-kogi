@@ -5,7 +5,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 import axios from "axios";
 
-global.owner = [["2348098309204", "Danny", true], ["2347035825258","Dave",true],["2348165137182","~+&-",true]]; //Number of owners
+global.owner = [["2348098309204", "Danny", true], ["2347035825258","Dave",true],["2348165137182","+&-",true]]; //Number of owners
 
 global.pairingNumber = "2347035825258"; //put your bot number here
 
